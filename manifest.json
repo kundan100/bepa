@@ -1,0 +1,11 @@
+{
+    "name": "bepa",
+    "version": "1.0.0",
+    "description": "Browser Extension: Personal Assistant",
+    "manifest_version": 3,
+    "author": "kundan100",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Browser Extension: Personal Assistant"
+    }
+}
